@@ -1,0 +1,13 @@
+{
+  "name": "weekly-challenge",
+  "version": "1.0.0",
+  "description": "Weekly challenge logical",
+  "main": "32-second major.js",
+  "repository": "git@github.com:jairyara/weekly-challenge.git",
+  "author": "Jair Yara <jair.yara11@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
